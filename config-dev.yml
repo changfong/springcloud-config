@@ -1,2 +1,5 @@
 server:
   port: 3304
+config:
+  info:config-dev.yamlinfo
+  
