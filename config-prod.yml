@@ -1,5 +1,5 @@
 server:
   port: 3305
 config:
-  info:config-prod.yamlinfo
+  info: config-prodyamlinfo
   
