@@ -1,5 +1,3 @@
-server:
-  port: 3304
 config:
   info: configdev
   
