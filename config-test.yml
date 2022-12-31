@@ -1,4 +1,4 @@
 server:
   port: 3306
 config:
-  info:test.yamlinfo
+  info: test.yamlinfo
